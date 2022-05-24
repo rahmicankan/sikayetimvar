@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466199110778",
+    "project_id": "sikayetimvar-ac199",
+    "storage_bucket": "sikayetimvar-ac199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466199110778:android:46ff166ee8f379331a07c3",
+        "android_client_info": {
+          "package_name": "com.example.sikayetimvar.view"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466199110778-705uqtnqc987r8022uk5kaglbmn3mcdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh34sdAdrTE4dy1HiQFrs9igHknSKZdDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466199110778-705uqtnqc987r8022uk5kaglbmn3mcdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
