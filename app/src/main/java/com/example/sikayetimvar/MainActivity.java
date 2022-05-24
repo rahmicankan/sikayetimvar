@@ -59,11 +59,10 @@ public class MainActivity extends AppCompatActivity {
                 }
             });
         }
-
     }
     public void kayitolClick(View view){
         Intent intent = new Intent(MainActivity.this, kayitactivity.class);
         startActivity(intent);
         finish();
     }
-}
+}//asd
